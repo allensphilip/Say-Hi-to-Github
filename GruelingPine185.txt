@@ -1,1 +1,2 @@
 Hello Github! My name is GruelingPine185 and I'm a young developer who enjoys coding all sorts of things, for myself and others. This is my first Hacktoberfest and I'm quite excited to see how it turns out.
+I try to code every single day so I can keep my programming "skills" sharp. It's nothing much, but it is one of my greatest values.
