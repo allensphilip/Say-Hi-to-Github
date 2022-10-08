@@ -1,4 +1,4 @@
-# HacktoberFest-Celebrations
+# Say Hi to Github
 
 </br>Hacktoberfest is about contributing to open-source projects, Let's have fun.
 
