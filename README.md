@@ -1,6 +1,6 @@
 # HacktoberFest-Celebrations
 
-</br>Hacktoberfest is about contributing meaningfully to open-source projects.
+</br>Hacktoberfest is about contributing to open-source projects, Let's have fun.
 
 </br>Instruction for CONTRIBUTORS:
       </br>1. Create a text file with your name( Eg: AllenSPhilip), Commit the file.
